@@ -1,0 +1,240 @@
+{
+  "ID": "GOTT",
+  "role_BotAdmin": "STAFF",
+  "channel_Logs": "978441934190280734",
+  "reaction_correct": "797314804011237406",
+  "reaction_incorrect": "833062672907763733",
+  "reaction_waitlist": "970361095833395280",
+  "reaction_banned": "797299748197236746",
+  "scrims": [
+    {
+      "server_code": "GOTT",
+      "channel_Registrations": "870316725743276063",
+      "channel_Confirmations": "870316916428902430",
+      "channel_IDPW": "870317206477611068",
+      "channel_Waitlist": "870314322847477770",
+      "channel_Chat": "870317545499000862",
+      "role_Registrations": "Lions Scrims",
+      "role_Vip_1": "Ehrenmann/ Frau",
+      "role_Vip_2": "",
+      "role_Vip_3": "",
+      "role_Vip_4": "",
+      "role_Waitlist": "Waitlist Late Night",
+      "role_IDPW": "ID-PW Late Night",
+      "role_Banned": "ln-banned",
+      "text_early_regs": "Registration is now open for <@&702929389305856060>\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_open_regs": "Registration is now open for <@&792005056214859796>\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_regs": "Registrations are closed now!",
+      "text_slots": "Slots:\n\nConfirmation from **19:00 to 21:30**!\n\n",
+      "text_open_waitlist": "Waitlist is now open! <@&870311665118359563>\n\n**Follow the format, NO EDITS**\n%register\nTeam Name:\nTeam Tag:\nTeam Manager:",
+      "text_lock_waitlist": "Waitlist is closed!",
+      "text_confirmation": "<@&870311431063625798> Please confirm or cancel until 21:30.",
+      "text_free_slots": " __**11PM CEST**__",
+      "msg_Waitlist": "972841529884418138",
+      "msg_Slots": "972841342193516605",
+      "msg_IDPW": "972841464910446602",
+      "msg_Confirmation": "984580712923557908",
+      "is_open_Registrations": true,
+      "is_open_Waitlist": false,
+      "just_unconfirm": false,
+      "allowed_multiple_tags": false,
+      "number_of_teams": 0,
+      "max_number_of_teams": 20,
+      "number_first_slot": 3,
+      "number_of_VIP_slots": 1,
+      "slots": [
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "",
+          "teamTag": "",
+          "teamManager": "",
+          "confirm": ""
+        },
+        {
+          "teamName": "VIP",
+          "teamTag": "VIP",
+          "teamManager": "",
+          "confirm": ""
+        }
+      ],
+      "schedules": {
+        "clear_all": {
+          "dayOfWeek": [
+            0,
+            5,
+            6
+          ],
+          "hour": 9,
+          "minute": 45
+        },
+        "open_early_regs": {
+          "dayOfWeek": [
+            0,
+            5,
+            6
+          ],
+          "hour": 10,
+          "minute": 0
+        },
+        "open_regs": {
+          "dayOfWeek": [
+            0,
+            5,
+            6
+          ],
+          "hour": 15,
+          "minute": 0
+        },
+        "open_confirmations": {
+          "dayOfWeek": [
+            0,
+            5,
+            6
+          ],
+          "hour": 19,
+          "minute": 0
+        },
+        "close_regs": {
+          "dayOfWeek": [
+            0,
+            5,
+            6
+          ],
+          "hour": 21,
+          "minute": 25
+        },
+        "open_waitlist": {
+          "dayOfWeek": [
+            0,
+            5,
+            6
+          ],
+          "hour": 21,
+          "minute": 30
+        },
+        "close_waitlist": {
+          "dayOfWeek": [
+            0,
+            5,
+            6
+          ],
+          "hour": 23,
+          "minute": 55
+        }
+      }
+    }
+  ]
+}
